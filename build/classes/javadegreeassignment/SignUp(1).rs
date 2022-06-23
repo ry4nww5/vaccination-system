@@ -1,0 +1,8 @@
+javadegreeassignment.SignUp$7
+javadegreeassignment.SignUp$5
+javadegreeassignment.SignUp$6
+javadegreeassignment.SignUp$3
+javadegreeassignment.SignUp$4
+javadegreeassignment.SignUp$1
+javadegreeassignment.SignUp$2
+javadegreeassignment.SignUp

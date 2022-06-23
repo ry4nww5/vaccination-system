@@ -1,0 +1,4 @@
+javadegreeassignment.ModifyVaccine
+javadegreeassignment.ModifyVaccine$2
+javadegreeassignment.ModifyVaccine$3
+javadegreeassignment.ModifyVaccine$1
